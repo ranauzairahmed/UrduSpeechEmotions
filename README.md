@@ -5,10 +5,9 @@ Machine learning project for detecting emotions in Urdu speech using deep learni
 URDU-Dataset: https://github.com/siddiquelatif/URDU-Dataset
 ## Features
 Audio emotion classification
+
 Multiple neural network models: CNN, LSTM, CNN-LSTM
+
 93.75% peak accuracy
 ## Technologies:
-Python
-TensorFlow
-Librosa
-scikit-learn
+Python | TensorFlow | Librosa | scikit-learn | Pandas | NumPy | Matplotlib | Seaborn
